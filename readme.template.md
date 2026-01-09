@@ -98,7 +98,7 @@
     <li><strong>Interaction:</strong> Walk up to objects; if the invisible "interaction beam" collides, you can toggle doors or pick up items.</li>
     <li><strong>Objective:</strong> Locate the key in the dark hallway, unlock the "Locked Room," and survive the encounter.</li>
 </ul>
-<p>Watch the sample gameplay at my linkedIn post here: <a href="">Basic FP Horror Game</a></p>
+<p>Watch the sample gameplay at my linkedIn post here: <a href="#">Basic FP Horror Game</a></p>
 
 <h3>🛠 Testing Focus</h3>
 <ul>
