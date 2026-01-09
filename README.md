@@ -98,7 +98,7 @@
     <li><strong>Interaction:</strong> Walk up to objects; if the invisible "interaction beam" collides, you can toggle doors or pick up items.</li>
     <li><strong>Objective:</strong> Locate the key in the dark hallway, unlock the "Locked Room," and survive the encounter.</li>
 </ul>
-<p>Watch the sample gameplay at my linkedIn post here: <a href="#">Basic FP Horror Game</a></p>
+<p>Watch the sample gameplay at my linkedIn post here: <a href="https://www.linkedin.com/posts/activity-7415352498481467392-mbwU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC64xbIBQ-4tMrEhn1BXRr8SmkzqiMPX0k8">Basic FP Horror Game</a></p>
 
 <h3>🛠 Testing Focus</h3>
 <ul>
@@ -151,8 +151,7 @@
 <h2 id="contact">🙏 Acknowledgements</h2>
 <p>Special thanks to <strong><a href="https://www.youtube.com/@Omogonix"><strong>Omogonix</strong></a></strong> for the clear guidance on building a horror atmosphere from scratch using primitive shapes.</p>
 <p>
-    🎥 Tutorial Source:<br>
-    <a href="https://www.youtube.com/playlist?list=PLWI8H56cvVoI0xd2FOIDschZbTKXlm71r"><strong>How to Make a Basic Horror Game in Unity (All Parts)</strong></a>
+    🎥 Tutorial Source:<a href="https://www.youtube.com/playlist?list=PLWI8H56cvVoI0xd2FOIDschZbTKXlm71r"><strong>How to Make a Basic Horror Game in Unity (All Parts)</strong></a>
 </p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/ShenLoong99/basic-fp-horror-game.svg?style=for-the-badge
