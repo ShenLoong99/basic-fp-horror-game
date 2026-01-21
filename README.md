@@ -1,5 +1,7 @@
 <a id="readme-top"></a>
 
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -7,14 +9,21 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<div>
    <h1>Unity Basic Horror Demo</h1>
    <p align="center"> 
-    <img src="Assets/Images/game-menu.png" alt="game-menu" width="800"/><br>
-    <img src="Assets/Images/gameplay-demo-preview.png" alt="gameplay-demo-preview" width="800"/><br>
+    <img src="Assets/Images/game-menu.png" alt="game-menu" /><br>
     A short, atmospheric horror gameplay demo built to explore Unity's lighting, animation, and interaction systems. Inspired by the Omogonix tutorial series.
    </p><br>
-    <a href="#about-the-project"><strong>Explore the docs »</strong></a>
+
+   <img src="https://img.shields.io/badge/Unity-600000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6" />
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Scripting" />
+   <img src="https://img.shields.io/badge/URP-Modern%20Graphics-orange?style=for-the-badge" alt="URP" />
+   <img src="https://img.shields.io/badge/Status-Learning%20Project-blue?style=for-the-badge" alt="Status" /><br><br>
+    
+![Last Commit](https://img.shields.io/github/last-commit/ShenLoong99/basic-fp-horror-game?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/ShenLoong99/basic-fp-horror-game?style=for-the-badge)
+
+   <a href="#about-the-project"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
@@ -134,7 +143,10 @@
       </tr>
       <tr>
          <td><strong>Persistent Global Lighting</strong></td>
-         <td>Disabled the skybox, set environment lighting to a flat dark color, and used custom "dark fog" particles to mask the horizon.</td>
+         <td>
+            <img src="Assets/Images/gameplay-demo-preview.png" alt="gameplay-demo-preview" />
+            Disabled the skybox, set environment lighting to a flat dark color, and used custom "dark fog" particles to mask the horizon
+         </td>
       </tr>
       <tr>
          <td><strong>Monster Behavior</strong></td>
