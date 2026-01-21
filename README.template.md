@@ -162,9 +162,9 @@
 
 <h2 id="contact">🙏 Acknowledgements</h2>
 <p>Special thanks to <strong><a href="https://www.youtube.com/@Omogonix"><strong>Omogonix</strong></a></strong> for the clear guidance on building a horror atmosphere from scratch using primitive shapes.</p>
-<p>
-    🎥 Tutorial Source:<a href="https://www.youtube.com/playlist?list=PLWI8H56cvVoI0xd2FOIDschZbTKXlm71r"><strong>How to Make a Basic Horror Game in Unity (All Parts)</strong></a>
-</p>
+<p>🎥 Tutorial Source:<a href="https://www.youtube.com/playlist?list=PLWI8H56cvVoI0xd2FOIDschZbTKXlm71r"><strong>How to Make a Basic Horror Game in Unity (All Parts)</strong></a></p>
+<p>🎥 Tutorial Source:<a href="https://www.youtube.com/playlist?list=PLWI8H56cvVoI0xd2FOIDschZbTKXlm71r"><strong>How to Make a Basic Horror Game in Unity (All Parts)</strong></a></p>
+<p>This repository is intended for learning and portfolio showcase purposes only.</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/{{REPO_NAME}}.svg?style=for-the-badge
 [contributors-url]: https://github.com/{{REPO_NAME}}/graphs/contributors
